@@ -1,0 +1,82 @@
+[
+  {
+    "name": "XMS Token",
+    "symbol": "XMS",
+    "address": "0xa52431A6DeE3eB4a08d3A3b437135cf985fECb68",
+    "chainId": 97,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/MarsEcosystem/mars-token-list/master/assets/asset_XMS.png"
+  },
+  {
+    "name": "USDM Token",
+    "symbol": "USDM",
+    "address": "0xB2773043E7C7aDb6718c288FFf220FaF473A080A",
+    "chainId": 97,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/MarsEcosystem/mars-token-list/master/assets/asset_USDM.png"
+  },
+  {
+    "name": "WBNB Token",
+    "symbol": "WBNB",
+    "address": "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
+    "chainId": 97,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/info/logo.png"
+  },
+  {
+    "name": "BUSD Token",
+    "symbol": "BUSD",
+    "address": "0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee",
+    "chainId": 97,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/BUSD-BD1/logo.png"
+  },
+  {
+    "name": "USDT Token",
+    "symbol": "USDT",
+    "address": "0x337610d27c682E347C9cD60BD4b3b107C9d34dDd",
+    "chainId": 97,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/USDT-6D8/logo.png"
+  },
+  {
+    "name": "USDC Token",
+    "symbol": "USDC",
+    "address": "0x64544969ed7ebf5f083679233325356ebe738930",
+    "chainId": 97,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/USDC-CD2/logo.png"
+  },
+  {
+    "name": "DAI Token",
+    "symbol": "DAI",
+    "address": "0xec5dcb5dbf4b114c9d0f65bccab49ec54f6a0867",
+    "chainId": 97,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/DAI-D75/logo.png"
+  },
+  {
+    "name": "ETH Token",
+    "symbol": "ETH",
+    "address": "0xd66c6b4f0be8ce5b39d52e0fd1344c389929b378",
+    "chainId": 97,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/ETH-1C9/logo.png"
+  },
+  {
+    "name": "XRP Token",
+    "symbol": "XRP",
+    "address": "0xa83575490d7df4e2f47b7d38ef351a2722ca45b9",
+    "chainId": 97,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/XRP-BF2/logo.png"
+  },
+  {
+    "name": "BTCB Token",
+    "symbol": "BTCB",
+    "address": "0x6ce8da28e2f864420840cf74474eff5fd80e65b8",
+    "chainId": 97,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/BTCB-1DE/logo.png"
+  }
+]
