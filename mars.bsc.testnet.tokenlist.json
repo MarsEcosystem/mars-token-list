@@ -1,6 +1,6 @@
 {
   "name": "Mars",
-  "logoURI": "https://raw.githubusercontent.com/MarsEcosystem/mars-token-list/master/assets/asset_XMS.png",
+  "logoURI": "https://raw.githubusercontent.com/MarsEcosystem/mars-token-list/master/assets/mars.png",
   "keywords": [
     "mars",
     "defi"
@@ -18,7 +18,7 @@
       "address": "0xFE04957CBB9Fd7Ab76A20a90b45d6d82DE9D87cB",
       "chainId": 97,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/MarsEcosystem/mars-token-list/master/assets/asset_XMS.png"
+      "logoURI": "https://raw.githubusercontent.com/MarsEcosystem/mars-token-list/master/assets/asset_XMSx800.png"
     },
     {
       "name": "USDM Token",
@@ -26,7 +26,7 @@
       "address": "0xbD4d4b768A7673E59eF6Fa03b566646658Bec3B6",
       "chainId": 97,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/MarsEcosystem/mars-token-list/master/assets/asset_USDM.png"
+      "logoURI": "https://raw.githubusercontent.com/MarsEcosystem/mars-token-list/master/assets/asset_USDMx800.png"
     },
     {
       "name": "WBNB Token",
