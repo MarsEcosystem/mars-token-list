@@ -1,0 +1,21 @@
+{
+  "success": true,
+  "data": {
+    "0x9B90fc60C90bA36E5a7bcb7946A734aFd3051212": {
+      "token0": "0x7FF8c40659ff17b9CcCD95F95855b6276cF99AD3",
+      "token1": "0xfEF88D48D0C6eACD3fF2BE6c9268486d8476D22c",
+      "value24": "11875643.6615",
+      "fee_value24": "522629.93582",
+      "value_today": "2231.532",
+      "fee_value_today": "22.31532"
+    },
+    "0xb0Fd5AeA2d0B262ee50550778acf45f5c7dc359D": {
+      "token0": "0xfEF88D48D0C6eACD3fF2BE6c9268486d8476D22c",
+      "token1": "0xed24fc36d5ee211ea25a80239fb8c4cfd80f12ee",
+      "value24": "8202643.6145",
+      "fee_value24": "392629.97012",
+      "value_today": "4562.8989",
+      "fee_value_today": "45.628989"
+    }
+  }
+}
