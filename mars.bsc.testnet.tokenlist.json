@@ -6,7 +6,7 @@
     "defi"
   ],
   "version": {
-    "major": 1,
+    "major": 2,
     "minor": 1,
     "patch": 1
   },
@@ -27,6 +27,30 @@
       "chainId": 97,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/MarsEcosystem/mars-token-list/master/assets/asset_USDMx800.png"
+    },
+    {
+      "name": "BUSD-A Token",
+      "symbol": "BUSD-A",
+      "address": "0xd508f5B8c72b64B73bfD9Da823229F89590a8fA5",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/BUSD-BD1/logo.png"
+    },
+    {
+      "name": "BUSD-B Token",
+      "symbol": "BUSD-B",
+      "address": "0x5899CBE615212f6b94751344b9EAa164ABc177B2",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/BUSD-BD1/logo.png"
+    },
+    {
+      "name": "BUSD-C Token",
+      "symbol": "BUSD-C",
+      "address": "0x36e6335eEF01Ad7426926c805f58165fBc312485",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/BUSD-BD1/logo.png"
     },
     {
       "name": "WBNB Token",
