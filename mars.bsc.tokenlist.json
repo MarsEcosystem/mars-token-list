@@ -1,6 +1,6 @@
 {
   "name": "Mars",
-  "logoURI": "https://raw.githubusercontent.com/MarsEcosystem/mars-token-list/master/assets/asset_XMS.png",
+  "logoURI": "https://raw-github.marsecosystem.com/MarsEcosystem/mars-token-list/master/assets/mars.png",
   "keywords": [
     "mars",
     "defi"
@@ -634,7 +634,7 @@
       "address": "0xf16e81dce15B08F326220742020379B855B87DF9",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xf16e81dce15B08F326220742020379B855B87DF9/logo.png"
+      "logoURI": "https://raw-github.marsecosystem.com/sushiswap/assets/master/blockchains/ethereum/assets/0xf16e81dce15B08F326220742020379B855B87DF9/logo.png"
     },
     {
       "name": "SushiToken",
@@ -642,7 +642,7 @@
       "address": "0x947950BcC74888a40Ffa2593C5798F11Fc9124C4",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2/logo.png"
+      "logoURI": "https://raw-github.marsecosystem.com/sushiswap/assets/master/blockchains/ethereum/assets/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2/logo.png"
     }
   ]
 }
