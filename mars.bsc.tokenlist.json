@@ -13,6 +13,14 @@
   "timestamp": "2021-05-07T16:00:00.000+00:00",
   "tokens": [
     {
+      "name": "XMS Token",
+      "symbol": "XMS",
+      "address": "0x7859B01BbF675d67Da8cD128a50D155cd881B576",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw-github.marsecosystem.com/MarsEcosystem/mars-token-list/master/assets/asset_XMSx800.png"
+    },
+    {
       "name": "Bakery Token",
       "symbol": "BAKE",
       "address": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
