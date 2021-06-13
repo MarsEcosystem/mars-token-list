@@ -6,7 +6,7 @@
     "defi"
   ],
   "version": {
-    "major": 5,
+    "major": 6,
     "minor": 1,
     "patch": 1
   },
@@ -15,7 +15,7 @@
     {
       "name": "XMS Token",
       "symbol": "XMS",
-      "address": "0xf2FB4DB73A9b4Af467A3fCa30FC27a9e16F3afe2",
+      "address": "0x5572d9c4f9Dd04f72Bbc1fe67e5D212Ae8A5D1cF",
       "chainId": 97,
       "decimals": 18,
       "logoURI": "https://raw-github.marsecosystem.com/MarsEcosystem/mars-token-list/master/assets/asset_XMSx800.png"
@@ -23,7 +23,7 @@
     {
       "name": "USDM Token",
       "symbol": "USDM",
-      "address": "0x1e0Fc9d5fdC8034821f566254eC2ca57d1eeEa45",
+      "address": "0x9709315127f1da22b022B9Acf3AE1b322b17277F",
       "chainId": 97,
       "decimals": 18,
       "logoURI": "https://raw-github.marsecosystem.com/MarsEcosystem/mars-token-list/master/assets/asset_USDMx800.png"
