@@ -6,16 +6,16 @@
     "defi"
   ],
   "version": {
-    "major": 6,
+    "major": 8,
     "minor": 1,
     "patch": 1
   },
-  "timestamp": "2021-05-07T16:00:00.000+00:00",
+  "timestamp": "2021-07-13T16:00:00.000+00:00",
   "tokens": [
     {
       "name": "XMS Token",
       "symbol": "XMS",
-      "address": "0x5572d9c4f9Dd04f72Bbc1fe67e5D212Ae8A5D1cF",
+      "address": "0x70138966a7CcFd7DB437797126E547fcB21e69BC",
       "chainId": 97,
       "decimals": 18,
       "logoURI": "https://raw-github.marsecosystem.com/MarsEcosystem/mars-token-list/master/assets/asset_XMSx800.png"
@@ -23,7 +23,7 @@
     {
       "name": "USDM Token",
       "symbol": "USDM",
-      "address": "0x9709315127f1da22b022B9Acf3AE1b322b17277F",
+      "address": "0x3a851f90bcCBF71061B3516C7BdB3a867385177D",
       "chainId": 97,
       "decimals": 18,
       "logoURI": "https://raw-github.marsecosystem.com/MarsEcosystem/mars-token-list/master/assets/asset_USDMx800.png"
@@ -99,6 +99,14 @@
       "chainId": 97,
       "decimals": 18,
       "logoURI": "https://raw-github.marsecosystem.com/trustwallet/assets/master/blockchains/binance/assets/ETH-1C9/logo.png"
+    },
+    {
+      "name": "PancakeSwap Token",
+      "symbol": "CAKE",
+      "address": "0x9Ff7010Fe2DbdD638257b8eaA1a65e73129361A3",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/pancake_32.png"
     },
     {
       "name": "XRP Token",
