@@ -6,7 +6,7 @@
     "defi"
   ],
   "version": {
-    "major": 0,
+    "major": 1,
     "minor": 1,
     "patch": 0
   },
@@ -26,7 +26,7 @@
       "address": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://bscscan.com/token/images/bakeryswap_32.png"
+      "logoURI": "https://raw-github.marsecosystem.com/trustwallet/assets/master/blockchains/binance/assets/BAKE-5E0/logo.png"
     },
     {
       "name": "BUSD Token",
@@ -34,7 +34,7 @@
       "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://bscscan.com/token/images/busd_32.png"
+      "logoURI": "https://raw-github.marsecosystem.com/trustwallet/assets/master/blockchains/binance/assets/BUSD-BD1/logo.png"
     },
     {
       "name": "Ethereum Token",
@@ -42,7 +42,7 @@
       "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://bscscan.com/token/images/ethereum_32.png"
+      "logoURI": "https://raw-github.marsecosystem.com/trustwallet/assets/master/blockchains/binance/assets/ETH-1C9/logo.png"
     },
     {
       "name": "BTCB Token",
@@ -50,7 +50,7 @@
       "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://bscscan.com/token/images/btcb_32.png"
+      "logoURI": "https://raw-github.marsecosystem.com/trustwallet/assets/master/blockchains/binance/assets/BTCB-1DE/logo.png"
     },
     {
       "name": "BAND Protocol Token",
@@ -58,7 +58,7 @@
       "address": "0xAD6cAEb32CD2c308980a548bD0Bc5AA4306c6c18",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://bscscan.com/token/images/bandtoken_32.png"
+      "logoURI": "https://raw-github.marsecosystem.com/trustwallet/assets/master/blockchains/binance/assets/BAND-34B/logo.png"
     },
     {
       "name": "EOS Token",
@@ -66,7 +66,7 @@
       "address": "0x56b6fB708fC5732DEC1Afc8D8556423A2EDcCbD6",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://bscscan.com/token/images/eos_32.png"
+      "logoURI": "https://raw-github.marsecosystem.com/trustwallet/assets/master/blockchains/binance/assets/EOS-CDD/logo.png"
     },
     {
       "name": "Tether USD",
@@ -74,7 +74,7 @@
       "address": "0x55d398326f99059fF775485246999027B3197955",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://bscscan.com/token/images/busdt_32.png"
+      "logoURI": "https://raw-github.marsecosystem.com/trustwallet/assets/master/blockchains/binance/assets/USDT-6D8/logo.png"
     },
     {
       "name": "XRP Token",
@@ -82,7 +82,7 @@
       "address": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://bscscan.com/token/images/xrp_32.png"
+      "logoURI": "https://raw-github.marsecosystem.com/trustwallet/assets/master/blockchains/binance/assets/XRP-BF2/logo.png"
     },
     {
       "name": "Bitcoin Cash Token",
@@ -90,7 +90,7 @@
       "address": "0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://bscscan.com/token/images/bitcoincash_32.png"
+      "logoURI": "https://raw-github.marsecosystem.com/trustwallet/assets/master/blockchains/binance/assets/BCH-1FD/logo.png"
     },
     {
       "name": "Litecoin Token",
@@ -98,7 +98,7 @@
       "address": "0x4338665CBB7B2485A8855A139b75D5e34AB0DB94",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://bscscan.com/token/images/litecoin_32.png"
+      "logoURI": "https://raw-github.marsecosystem.com/trustwallet/assets/master/blockchains/binance/assets/LTC-F07/logo.png"
     },
     {
       "name": "Cardano Token",
@@ -106,7 +106,7 @@
       "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://bscscan.com/token/images/cardano_32.png"
+      "logoURI": "https://raw-github.marsecosystem.com/trustwallet/assets/master/blockchains/binance/assets/ADA-9F4/logo.png"
     },
     {
       "name": "Cosmos Token",
@@ -114,7 +114,7 @@
       "address": "0x0Eb3a705fc54725037CC9e008bDede697f62F335",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://bscscan.com/token/images/cosmos_32.png"
+      "logoURI": "https://raw-github.marsecosystem.com/trustwallet/assets/master/blockchains/binance/assets/ATOM-596/logo.png"
     },
     {
       "name": "Tezos Token",
@@ -122,7 +122,7 @@
       "address": "0x16939ef78684453bfDFb47825F8a5F714f12623a",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://bscscan.com/token/images/tezos_32.png"
+      "logoURI": "https://raw-github.marsecosystem.com/trustwallet/assets/master/blockchains/binance/assets/XTZ-F7A/logo.png"
     },
     {
       "name": "Ontology Token",
@@ -130,7 +130,7 @@
       "address": "0xFd7B3A77848f1C2D67E05E54d78d174a0C850335",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://bscscan.com/token/images/ontology_32.png"
+      "logoURI": "https://raw-github.marsecosystem.com/trustwallet/assets/master/blockchains/binance/assets/ONT-33D/logo.png"
     },
     {
       "name": "Zcash Token",
@@ -138,7 +138,7 @@
       "address": "0x1Ba42e5193dfA8B03D15dd1B86a3113bbBEF8Eeb",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://bscscan.com/token/images/zcash_32.png"
+      "logoURI": "https://raw-github.marsecosystem.com/trustwallet/assets/master/blockchains/binance/assets/ZEC-93E/logo.png"
     },
     {
       "name": "Dai Token",
@@ -146,7 +146,7 @@
       "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://bscscan.com/token/images/dai_32.png"
+      "logoURI": "https://raw-github.marsecosystem.com/trustwallet/assets/master/blockchains/binance/assets/DAI-D75/logo.png"
     },
     {
       "name": "YFII.finance Token",
@@ -154,7 +154,7 @@
       "address": "0x7F70642d88cf1C4a3a7abb072B53B929b653edA5",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://bscscan.com/token/images/dfimoney_32.png"
+      "logoURI": "https://raw-github.marsecosystem.com/trustwallet/assets/master/blockchains/binance/assets/YFII-061/logo.png"
     },
     {
       "name": "Cream",
@@ -162,7 +162,7 @@
       "address": "0xd4CB328A82bDf5f03eB737f37Fa6B370aef3e888",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://bscscan.com/token/images/creamfinance_32.png"
+      "logoURI": "https://assets.coingecko.com/coins/images/11976/small/Cream.png?1596593418"
     },
     {
       "name": "Prometeus",
@@ -170,7 +170,7 @@
       "address": "0xaF53d56ff99f1322515E54FdDE93FF8b3b7DAFd5",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://bscscan.com/token/images/Prometeus_32.png"
+      "logoURI": "https://assets.coingecko.com/coins/images/8825/small/G2LY-Dg_.png?1591698270"
     },
     {
       "name": "CanYaCoin",
@@ -178,7 +178,7 @@
       "address": "0x007EA5C0Ea75a8DF45D288a4debdD5bb633F9e56",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://bscscan.com/token/images/canya_32.png"
+      "logoURI": "https://raw-github.marsecosystem.com/trustwallet/assets/master/blockchains/binance/assets/CAN-677/logo.png"
     },
     {
       "name": "Polkadot Token",
@@ -186,7 +186,7 @@
       "address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://bscscan.com/token/images/polkadot_32.png"
+      "logoURI": "https://raw-github.marsecosystem.com/trustwallet/assets/master/blockchains/binance/assets/DOT-64C/logo.png"
     },
     {
       "name": "PancakeSwap Token",
@@ -194,7 +194,7 @@
       "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://bscscan.com/token/images/pancake_32.png"
+      "logoURI": "https://raw-github.marsecosystem.com/trustwallet/assets/master/blockchains/binance/assets/CAKE-435/logo.png"
     },
     {
       "name": "Streamity",
@@ -210,7 +210,7 @@
       "address": "0xf307910A4c7bbc79691fD374889b36d8531B08e3",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://bscscan.com/token/images/ankr_32.png"
+      "logoURI": "https://raw-github.marsecosystem.com/trustwallet/assets/master/blockchains/binance/assets/ANKR-E97/logo.png"
     },
     {
       "name": "ChainLink Token",
@@ -218,7 +218,7 @@
       "address": "0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://bscscan.com/token/images/chainlink_32.png"
+      "logoURI": "https://raw-github.marsecosystem.com/trustwallet/assets/master/blockchains/binance/assets/LINK-AAD/logo.png"
     },
     {
       "name": "Burger Swap",
@@ -226,7 +226,7 @@
       "address": "0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://bscscan.com/token/images/burgerswap_32.png"
+      "logoURI": "https://raw-github.marsecosystem.com/trustwallet/assets/master/blockchains/binance/assets/BURGER-33A/logo.png"
     },
     {
       "name": "Dice.finance Token",
@@ -250,7 +250,7 @@
       "address": "0xE4Ae305ebE1AbE663f261Bc00534067C80ad677C",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/12638/small/1*OWy3ohA24pht-tFypfs-Tg.png?1601364302"
+      "logoURI": "https://raw-github.marsecosystem.com/trustwallet/assets/master/blockchains/binance/assets/SPARTA-7F3/logo.png"
     },
     {
       "name": "Trust Wallet",
@@ -258,7 +258,7 @@
       "address": "0x4B0F1812e5Df2A09796481Ff14017e6005508003",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://bscscan.com/token/images/trust_32.png"
+      "logoURI": "https://raw-github.marsecosystem.com/trustwallet/assets/master/blockchains/binance/assets/TWT-8C2/logo.png"
     },
     {
       "name": "Venus",
@@ -266,7 +266,7 @@
       "address": "0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://bscscan.com/token/images/venus_32.png"
+      "logoURI": "https://raw-github.marsecosystem.com/trustwallet/assets/master/blockchains/binance/assets/XVS-795/logo.png"
     },
     {
       "name": "AlphaToken",
@@ -274,7 +274,7 @@
       "address": "0xa1faa113cbE53436Df28FF0aEe54275c13B40975",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://bscscan.com/token/images/alpha_32.png"
+      "logoURI": "https://assets.coingecko.com/coins/images/12738/small/AlphaToken_256x256.png?1617160876"
     },
     {
       "name": "Beefy.finance",
@@ -290,7 +290,7 @@
       "address": "0x88f1A5ae2A3BF98AEAF342D26B30a79438c9142e",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://bscscan.com/token/images/yfi_32.png"
+      "logoURI": "https://raw-github.marsecosystem.com/trustwallet/assets/master/blockchains/binance/assets/YFI-1A4/logo.png"
     },
     {
       "name": "Uniswap",
@@ -298,7 +298,7 @@
       "address": "0xBf5140A22578168FD562DCcF235E5D43A02ce9B1",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://bscscan.com/token/images/uniswap_32.png"
+      "logoURI": "https://raw-github.marsecosystem.com/trustwallet/assets/master/blockchains/binance/assets/UNI-DD8/logo.png"
     },
     {
       "name": "fry.world",
@@ -314,7 +314,7 @@
       "address": "0x0Da6Ed8B13214Ff28e9Ca979Dd37439e8a88F6c4",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://bscscan.com/token/images/stablexswap_32.png"
+      "logoURI": "https://assets.coingecko.com/coins/images/12967/small/photo_2021-01-12_00.19.13.jpeg?1610381968"
     },
     {
       "name": "Filecoin",
@@ -322,7 +322,7 @@
       "address": "0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/12817/small/filecoin.png?1602753933"
+      "logoURI": "https://raw-github.marsecosystem.com/trustwallet/assets/master/blockchains/binance/assets/FIL-E2C/logo.png"
     },
     {
       "name": "KAVA",
@@ -330,7 +330,7 @@
       "address": "0x5F88AB06e8dfe89DF127B2430Bba4Af600866035",
       "chainId": 56,
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/9761/small/Kava-icon.png?1585636197"
+      "logoURI": "https://raw-github.marsecosystem.com/trustwallet/assets/master/blockchains/binance/assets/KAVA-10C/logo.png"
     },
     {
       "name": "USDX",
@@ -346,7 +346,7 @@
       "address": "0xa2B726B1145A4773F68593CF171187d8EBe4d495",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/12882/small/Injective_Icon.png?1613669548"
+      "logoURI": "https://raw-github.marsecosystem.com/trustwallet/assets/master/blockchains/binance/assets/INJ-FAE/logo.png"
     },
     {
       "name": "Swipe",
@@ -354,7 +354,7 @@
       "address": "0x47BEAd2563dCBf3bF2c9407fEa4dC236fAbA485A",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/9368/small/swipe.png?1566792311"
+      "logoURI": "https://raw-github.marsecosystem.com/trustwallet/assets/master/blockchains/binance/assets/SXP-CCC/logo.png"
     },
     {
       "name": "Binance-Peg USD Coin",
@@ -362,7 +362,7 @@
       "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://bscscan.com/token/images/centre-usdc_28.png"
+      "logoURI": "https://raw-github.marsecosystem.com/trustwallet/assets/master/blockchains/binance/assets/USDC-CD2/logo.png"
     },
     {
       "name": "CertiK Token",
@@ -370,7 +370,7 @@
       "address": "0xA8c2B8eec3d368C0253ad3dae65a5F2BBB89c929",
       "chainId": 56,
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/12944/small/CertiK_Foundation_icon_96_96_-_round.png?1603772980"
+      "logoURI": "https://raw-github.marsecosystem.com/trustwallet/assets/master/blockchains/binance/assets/CTK-EB8/logo.png"
     },
     {
       "name": "NAR Token",
@@ -410,7 +410,7 @@
       "address": "0x728C5baC3C3e370E372Fc4671f9ef6916b814d8B",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/13152/small/logo-2.png?1605748967"
+      "logoURI": "https://raw-github.marsecosystem.com/trustwallet/assets/master/blockchains/binance/assets/UNFI-FB7/logo.png"
     },
     {
       "name": "BLINk",
@@ -418,7 +418,7 @@
       "address": "0x63870A18B6e42b01Ef1Ad8A2302ef50B7132054F",
       "chainId": 56,
       "decimals": 6,
-      "logoURI": "https://bscscan.com/token/images/blink_32.png"
+      "logoURI": "https://assets.coingecko.com/coins/images/13210/small/exO5GLDpRGo.jpg?1606202654"
     },
     {
       "name": "QUSD Stablecoin",
@@ -426,7 +426,7 @@
       "address": "0xb8C540d00dd0Bf76ea12E4B4B95eFC90804f924E",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://bscscan.com/token/images/qianfinance_32.png"
+      "logoURI": "https://assets.coingecko.com/coins/images/13176/small/qusd_logo.png?1605922605"
     },
     {
       "name": "Qian Governance Token",
@@ -514,7 +514,7 @@
       "address": "0xf05E45aD22150677a017Fbd94b84fBB63dc9b44c",
       "chainId": 56,
       "decimals": 2,
-      "logoURI": "https://bscscan.com/token/images/ogfan_32.png"
+      "logoURI": "https://assets.coingecko.com/coins/images/11663/small/og.jpg?1592838119"
     },
     {
       "name": "Atletico de Madrid",
@@ -562,7 +562,7 @@
       "address": "0x5Ac52EE5b2a633895292Ff6d8A89bB9190451587",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://bscscan.com/token/images/bscex_32.png"
+      "logoURI": "https://assets.coingecko.com/coins/images/13582/small/icon-bscex-200x200.png?1609917200"
     },
     {
       "name": "Standard BTC Hashrate Token",
@@ -634,7 +634,7 @@
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://bscscan.com/token/images/binance_32.png"
+      "logoURI": "https://raw-github.marsecosystem.com/trustwallet/assets/master/blockchains/binance/info/logo.png"
     },
     {
       "name": "IceToken",
@@ -642,7 +642,7 @@
       "address": "0xf16e81dce15B08F326220742020379B855B87DF9",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw-github.marsecosystem.com/sushiswap/assets/master/blockchains/ethereum/assets/0xf16e81dce15B08F326220742020379B855B87DF9/logo.png"
+      "logoURI": "https://assets.coingecko.com/coins/images/14586/small/ice.png?1617188825"
     },
     {
       "name": "SushiToken",
@@ -650,7 +650,7 @@
       "address": "0x947950BcC74888a40Ffa2593C5798F11Fc9124C4",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw-github.marsecosystem.com/sushiswap/assets/master/blockchains/ethereum/assets/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2/logo.png"
+      "logoURI": "https://raw-github.marsecosystem.com/trustwallet/assets/master/blockchains/binance/assets/SUSHI-134/logo.png"
     }
   ]
 }
