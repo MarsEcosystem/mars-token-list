@@ -106,7 +106,7 @@
       "address": "0x9Ff7010Fe2DbdD638257b8eaA1a65e73129361A3",
       "chainId": 97,
       "decimals": 18,
-      "logoURI": "https://bscscan.com/token/images/pancake_32.png"
+      "logoURI": "https://raw-github.marsecosystem.com/trustwallet/assets/master/blockchains/binance/assets/CAKE-435/logo.png"
     },
     {
       "name": "XRP Token",
