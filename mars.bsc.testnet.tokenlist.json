@@ -123,6 +123,14 @@
       "chainId": 97,
       "decimals": 18,
       "logoURI": "https://raw-github.marsecosystem.com/trustwallet/assets/master/blockchains/binance/assets/BTCB-1DE/logo.png"
+    },
+    {
+      "name": "HELMET Token",
+      "symbol": "HELMET",
+      "address": "0x12d6073E083cB8bC8c8112Bf763Cd058fa8987A7",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8265.png"
     }
   ]
 }
