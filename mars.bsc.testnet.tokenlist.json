@@ -6,7 +6,7 @@
     "defi"
   ],
   "version": {
-    "major": 8,
+    "major": 9,
     "minor": 1,
     "patch": 1
   },
@@ -95,7 +95,7 @@
     {
       "name": "ETH Token",
       "symbol": "ETH",
-      "address": "0xd66c6b4f0be8ce5b39d52e0fd1344c389929b378",
+      "address": "0xaE2DD5a607F066955f89c1d85044b2fe9097e219",
       "chainId": 97,
       "decimals": 18,
       "logoURI": "https://raw-github.marsecosystem.com/trustwallet/assets/master/blockchains/binance/assets/ETH-1C9/logo.png"
@@ -119,7 +119,7 @@
     {
       "name": "BTCB Token",
       "symbol": "BTCB",
-      "address": "0x6ce8da28e2f864420840cf74474eff5fd80e65b8",
+      "address": "0xF674235ef1c9c3CE8410aDc121CC46eda6c742D8",
       "chainId": 97,
       "decimals": 18,
       "logoURI": "https://raw-github.marsecosystem.com/trustwallet/assets/master/blockchains/binance/assets/BTCB-1DE/logo.png"
