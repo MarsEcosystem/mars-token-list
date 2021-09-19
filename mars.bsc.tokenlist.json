@@ -651,6 +651,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw-github.marsecosystem.com/trustwallet/assets/master/blockchains/binance/assets/SUSHI-134/logo.png"
+    },
+    {
+      "name": "KALATA Token",
+      "symbol": "KALA",
+      "address": "0x32299c93960bb583a43c2220dc89152391a610c5",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9353.png"
     }
   ]
 }
