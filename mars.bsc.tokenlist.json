@@ -656,9 +656,33 @@
       "name": "KALATA Token",
       "symbol": "KALA",
       "address": "0x32299c93960bb583a43c2220dc89152391a610c5",
-      "chainId": 97,
+      "chainId": 56,
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9353.png"
+    },
+    {
+      "name": "Interest Bearing ALPACA",
+      "symbol": "ibALPACA",
+      "address": "0xf1be8ecc990cbcb90e166b71e368299f0116d421",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8707.png"
+    },
+    {
+      "name": "Interest Bearing ALPACA",
+      "symbol": "ibALPACA",
+      "address": "0xf1be8ecc990cbcb90e166b71e368299f0116d421",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8707.png"
+    },
+    {
+      "name": "BabySwap Token",
+      "symbol": "BABY",
+      "address": "0x53E562b9B7E5E94b81f10e96Ee70Ad06df3D2657",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10334.png"
     }
   ]
 }
