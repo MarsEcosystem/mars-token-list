@@ -141,8 +141,8 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9353.png"
     },
     {
-      "name": "FORTUBE Token",
-      "symbol": "FORTUBE",
+      "name": "ForTube Token",
+      "symbol": "For",
       "address": "0xCb81421aC2b6ba75A9dE63737855942cba2C2C6D",
       "chainId": 97,
       "decimals": 18,
