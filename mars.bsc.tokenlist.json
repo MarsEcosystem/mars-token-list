@@ -675,6 +675,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10334.png"
+    },
+    {
+      "name": "ForTube Token",
+      "symbol": "For",
+      "address": "0x658a109c5900bc6d2357c87549b651670e5b0539",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4118.png"
     }
   ]
 }
