@@ -7,10 +7,10 @@
   ],
   "version": {
     "major": 3,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
-  "timestamp": "2021-05-07T16:00:00.000+00:00",
+  "timestamp": "2021-11-21T08:00:00.000+00:00",
   "tokens": [
     {
       "name": "XMS Token",
@@ -18,7 +18,15 @@
       "address": "0x7859B01BbF675d67Da8cD128a50D155cd881B576",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw-github.marsecosystem.com/MarsEcosystem/mars-token-list/master/assets/asset_XMSx800.png"
+      "logoURI": "https://raw-github.marsecosystem.com/MarsEcosystem/mars-token-list/master/assets/asset_XMSx120.png"
+    },
+    {
+      "name": "USD Mars",
+      "symbol": "USDm",
+      "address": "0xBb0fA2fBE9b37444f5D1dBD22e0e5bdD2afbbE85",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw-github.marsecosystem.com/MarsEcosystem/mars-token-list/master/assets/asset_USDMx120.png"
     },
     {
       "name": "Bakery Token",
