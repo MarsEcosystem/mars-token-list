@@ -149,14 +149,6 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4118.png"
     },
     {
-      "name": "ForTube Token",
-      "symbol": "For",
-      "address": "0xCb81421aC2b6ba75A9dE63737855942cba2C2C6D",
-      "chainId": 97,
-      "decimals": 18,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4118.png"
-    },
-    {
       "name": "Celestial",
       "symbol": "CELT",
       "address": "0x3bA0dECc794D9D39Fe8Bde4C49E2bc9714C1395D",
