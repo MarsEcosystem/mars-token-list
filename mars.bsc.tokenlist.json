@@ -699,6 +699,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw-github.marsecosystem.com/trustwallet/assets/master/blockchains/smartchain/assets/0x4f34292F109870d5fdDA602Bc7e3ae56D520D6e1/logo.png"
+    },
+    {
+      "name": "Monsta Infinite Token",
+      "symbol": "MONI",
+      "address": "0x9573c88aE3e37508f87649f87c4dd5373C9F31e0",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw-github.marsecosystem.com/trustwallet/assets/a6cf7ddff806c95d3c3e56587351a3f2ddc43ed7/blockchains/smartchain/assets/0x9573c88aE3e37508f87649f87c4dd5373C9F31e0/logo.png" 
     }
   ]
 }
