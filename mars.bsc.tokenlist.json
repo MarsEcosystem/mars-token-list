@@ -698,7 +698,7 @@
       "address": "0x4f34292f109870d5fdda602bc7e3ae56d520d6e1",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw-github.marsecosystem.com/trustwallet/assets/master/blockchains/smartchain/assets/0x4f34292F109870d5fdDA602Bc7e3ae56D520D6e1/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x4f34292F109870d5fdDA602Bc7e3ae56D520D6e1/logo.png"
     },
     {
       "name": "Monsta Infinite Token",
