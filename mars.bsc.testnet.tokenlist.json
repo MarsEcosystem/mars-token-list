@@ -21,8 +21,8 @@
       "logoURI": "https://raw-github.marsecosystem.com/MarsEcosystem/mars-token-list/master/assets/asset_XMSx800.png"
     },
     {
-      "name": "USDM Token",
-      "symbol": "USDM",
+      "name": "BUSD Mars",
+      "symbol": "USDm",
       "address": "0x3a851f90bcCBF71061B3516C7BdB3a867385177D",
       "chainId": 97,
       "decimals": 18,
