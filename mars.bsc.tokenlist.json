@@ -7,7 +7,7 @@
   ],
   "version": {
     "major": 5,
-    "minor": 3,
+    "minor": 5,
     "patch": 0
   },
   "timestamp": "2021-11-21T08:00:00.000+00:00",
@@ -707,6 +707,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw-github.marsecosystem.com/trustwallet/assets/master/blockchains/smartchain/assets/0x9573c88aE3e37508f87649f87c4dd5373C9F31e0/logo.png" 
+    },
+    {
+      "name": "Parking Infinity Token",
+      "symbol": "PARK",
+      "address": "0xeff83ab8c4f4479eae339fbcfAdf050A3a5f056B",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://public.nftstatic.com/static/nft/zipped/fa0e19fb148b463c97abade8bbbddf46_zipped.png" 
     }
   ]
 }
