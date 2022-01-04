@@ -7,7 +7,7 @@
   ],
   "version": {
     "major": 5,
-    "minor": 5,
+    "minor": 6,
     "patch": 0
   },
   "timestamp": "2021-11-21T08:00:00.000+00:00",
@@ -715,6 +715,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://public.nftstatic.com/static/nft/zipped/fa0e19fb148b463c97abade8bbbddf46_zipped.png" 
+    },
+    {
+      "name": "META Token",
+      "symbol": "META",
+      "address": "0x04073D16C6a08C27e8BbEbe262Ea4D1C6fa4C772",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11373.png" 
     }
   ]
 }
