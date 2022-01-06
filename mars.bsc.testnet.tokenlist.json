@@ -179,6 +179,14 @@
       "chainId": 97,
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11373.png" 
+    },
+    {
+      "name": "TopManager Token",
+      "symbol": "TMT",
+      "address": "0x6d435C19e6B744f16a2003AE4dc8ED2BA91272cF",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://resources.topgoal.io/static/token/tmt.png" 
     }
   ]
 }
