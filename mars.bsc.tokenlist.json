@@ -731,6 +731,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw-github.marsecosystem.com/topgoalnft/assets/main/tokens/tmt/32x32.png" 
+    },
+    {
+      "name": "UP Token",
+      "symbol": "UP",
+      "address": "0xbAc79E308BadA146DE29f56E066a021cfFA00375",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/up-defi/up-resource/main/logo/120_120.png"
     }
   ]
 }
