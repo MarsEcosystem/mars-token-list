@@ -739,6 +739,46 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw-github.marsecosystem.com/up-defi/up-resource/main/logo/120_120.png"
+    },
+    {
+      "name": "Mobox",
+      "symbol": "MBOX",
+      "address": "0x3203c9E46cA618C8C1cE5dC67e7e9D75f5da2377",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9175.png"
+    },
+    {
+      "name": "TrueUSD",
+      "symbol": "TUSD",
+      "address": "0x14016E85a25aeb13065688cAFB43044C2ef86784",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2563.png"
+    },
+    {
+      "name": "SafePal Token",
+      "symbol": "SFP",
+      "address": "0xD41FDb03Ba84762dD66a0af1a6C8540FF1ba5dfb",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8119.png"
+    },
+    {
+      "name": "TRON",
+      "symbol": "TRX",
+      "address": "0x85EAC5Ac2F758618dFa09bDbe0cf174e7d574D5B",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png"
+    },
+    {
+      "name": "AlpacaToken",
+      "symbol": "ALPACA",
+      "address": "0x8F0528cE5eF7B51152A59745bEfDD91D97091d2F",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8707.png"
     }
   ]
 }
