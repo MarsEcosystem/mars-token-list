@@ -779,6 +779,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8707.png"
+    },
+    {
+      "name": "Ankr",
+      "symbol": "ANKR",
+      "address": "0xf307910A4c7bbc79691fD374889b36d8531B08e3",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw-github.marsecosystem.com/trustwallet/assets/master/blockchains/binance/assets/ANKR-E97/logo.png"
     }
   ]
 }

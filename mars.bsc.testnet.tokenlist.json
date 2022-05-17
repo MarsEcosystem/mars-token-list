@@ -187,6 +187,30 @@
       "chainId": 97,
       "decimals": 18,
       "logoURI": "https://raw-github.marsecosystem.com/topgoalnft/assets/main/tokens/tmt/32x32.png" 
+    },
+    {
+      "name": "RewardToken",
+      "symbol": "RewardToken",
+      "address": "0x9c7E50Fa9E2f6E5cCdB8eEdaF557E1C5a8d66ef8",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://raw-github.marsecosystem.com/trustwallet/assets/master/blockchains/binance/assets/ANKR-E97/logo.png"
+    },
+    {
+      "name": "Ankr",
+      "symbol": "ANKR",
+      "address": "0x78c15FDBE4f784E499B80b75976956bC9a9c83df",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://raw-github.marsecosystem.com/trustwallet/assets/master/blockchains/binance/assets/ANKR-E97/logo.png"
+    },
+    {
+      "name": "Anker",
+      "symbol": "ANKER",
+      "address": "0x78c15FDBE4f784E499B80b75976956bC9a9c83df",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://raw-github.marsecosystem.com/trustwallet/assets/master/blockchains/binance/assets/ANKR-E97/logo.png"
     }
   ]
 }
